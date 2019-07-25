@@ -29,7 +29,7 @@ public class Employee {
 		return salary;
 	}
 	public void setSalary(double salary) {
-		this.salary = salary;
+		this.salary = salary;//salary current
 	}
 	@Override
 	public String toString() {
